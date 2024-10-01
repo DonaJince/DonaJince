@@ -7,12 +7,6 @@ I’m a final-year MCA student, passionate about coding and software development
 ## 🌐 Check out My Webpage:
 Visit my [GitHub Profile Site](https://donajince.github.io/readme/) to learn more about me, my skills, and my projects!
 
-## 🛠 Skills
-- Python
-- C++
-- Java
-- HTML5 / CSS3
-- MySQL
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DonaJince&show_icons=true&theme=radical)
